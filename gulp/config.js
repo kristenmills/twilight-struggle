@@ -2,7 +2,7 @@ export default {
   build: {
     stylesheets: './dist/css',
     js: './dist/js',
-    jsMain: './dist/js/main.js',
+    jsMain: 'main.js',
     dir: './dist',
   },
 
