@@ -1,4 +1,0 @@
----
-  extends:
-    - sse/es6
-    - sse/jsx
